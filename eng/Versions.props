@@ -25,7 +25,7 @@
     <!-- Packages from dotnet/core-setup -->
     <MicrosoftExtensionsDependencyModelPackageVersion>3.0.0-preview6-27720-09</MicrosoftExtensionsDependencyModelPackageVersion>
     <MicrosoftNETCoreAppPackageVersion>3.0.0-preview6-27720-09</MicrosoftNETCoreAppPackageVersion>
-    <NETStandardLibraryRefPackageVersion>2.1.0-preview6-27720-09</NETStandardLibraryRefPackageVersion>
+    <NETStandardLibraryRefPackageVersion>2.1.0-preview6-27723-08</NETStandardLibraryRefPackageVersion>
     <!-- Packages from dotnet/corefx -->
     <MicrosoftCSharpPackageVersion>4.6.0-preview6.19270.12</MicrosoftCSharpPackageVersion>
     <MicrosoftWin32RegistryPackageVersion>4.6.0-preview6.19270.12</MicrosoftWin32RegistryPackageVersion>
